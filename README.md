@@ -10,9 +10,9 @@ Learn and practice Swift
 * 🖥️  See my portfolio at [My apps for Ios](http://github.com/sherislam22)
 * ✉️  You can contact me at [sherislam025@gmail.com](mailto:sherislam025@gmail.com)
 * 🚀  I'm currently working on [PizzaDelivery](http://github.com/sherislam22/PizzaDelivery)
-* 🧠  I'm learning SwiftUI
+* 🧠  I'm learning SwiftUI, RestApi 
 * 🤝  I'm open to collaborating on E-commerce and fintech projects
-* ⚡  UIkit, FireBase, Swift, Realm, SnapKit
+* ⚡  Swift, UIkit, FireBase, UrlSession, GCD, SnapKit
 
 ### Skills
 
